@@ -1,0 +1,205 @@
+{
+  "basics": {
+    "name": "Chris Eaves-Kohlbrenner",
+    "label": "Software Engineer",
+    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/03c/144/18f92be.jpg",
+    "email": "cekohlbrenner@gmail.com",
+    "phone": "(845) 596-0066",
+    "website": "http://cek.io",
+    "summary": "Chris is a software engineer based in NYC. He brings a full-stack approach to solving technology problems, with strengths in JavaScript, functional programming, data visualization, and UI development.",
+    "location": {
+      "address": "3 Briarwood Lane",
+      "postalCode": "NY 10962",
+      "city": "New York",
+      "countryCode": "US",
+      "region": "NYC"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "heychrisek",
+        "url": "http://github.com/heychrisek"
+      },
+      {
+        "network": "Twitter",
+        "username": "heychrisek",
+        "url": "http://twitter.com/heychrisek"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "RedOwl",
+      "position": "Software Engineer",
+      "website": "http://redowl.com",
+      "startDate": "2014-08-18",
+      "endDate": "2016-10-30",
+      "summary": "RedOwl’s security analytics enable risk management teams to proactively monitor and mitigate suspicious human activity inside the enterprise.",
+      "highlights": [
+        "Build UI features and components for RedOwl’s data analytics application (technologies used: React, Redux, Webpack, Immutable.js, QUnit/Karma, D3, Node, Ember, PostgreSQL).",
+        "Develop custom data visualizations (using D3.js) based on customer requests, including heatmaps and data analyses over time.",
+        "Contribute to backend service by creating server endpoints to enable data retrieval/manipulation (technologies used: Java, ElasticSearch).",
+        "Collaborate with Product Development team to integrate designs and product feedback into technical specs and implementation."
+      ]
+    },
+    {
+      "company": "ScriptEd",
+      "position": "Volunteer Teacher",
+      "website": "http://scripted.org/",
+      "startDate": "2015-09-01",
+      "endDate": "2016-10-30",
+      "summary": "ScriptEd equips students in under-resourced schools with the fundamental coding skills and professional experiences that together create access to careers in technology. For two school years, I've volunteered as a classroom teacher in East Harlem.",
+      "highlights": [
+        "Volunteer in classroom of an East Harlem high school twice per week, teaching introductory computer science.",
+        "Communicate HTML, CSS, and JavaScript concepts in order to complete projects, including personal websites, web design, and API integration."
+      ]
+    },
+    {
+      "company": "Texas Tech University System",
+      "position": "Portfolio Manager",
+      "website": "http://www.texastech.edu/",
+      "startDate": "2012-10-01",
+      "endDate": "2014-01-01",
+      "summary": "The TTUS Office of Research Commercialization works with researchers and business partners to translate research discoveries into commercial applications and successfully bring them to the marketplace.",
+      "highlights": [
+        "Interfaced with Texas Tech University researchers to assess commercial potential of ideas and inventions.",
+        "Strategized on local and regional economic development initiatives.",
+        "Conducted due diligence and maintained deal flow relationships with companies applying for Texas Emerging Technology Fund investment."
+      ]
+    },
+    {
+      "company": "Seedco",
+      "position": "AmeriCorps Member",
+      "website": "http://www.seedco.org/",
+      "startDate": "2011-09-01",
+      "endDate": "2012-09-30",
+      "summary": "Seedco is a national nonprofit organization that advances economic opportunity for people, businesses and communities in need.",
+      "highlights": [
+        "Counseled low-income and unemployed clients about accessing public benefits.",
+        "Managed a Volunteer Income Tax Assistance (VITA) program as site coordinator and tax preparer.",
+        "Collaborated with health insurance and food stamps specialists to create awareness of benefits availability."
+      ]
+    },
+    {
+      "company": "Habitat for Humanity Egypt",
+      "position": "Development and Communications Intern",
+      "website": "http://habitategypt.org/",
+      "startDate": "2010-05-01",
+      "endDate": "2010-12-30",
+      "summary": "Habitat For Humanity Egypt is a national affiliate of Habitat for Humanity, envisioning a country without poverty housing.",
+      "highlights": [
+        "Designed and developed a website (habitategypt.org) to reach potential donors and volunteers.",
+        "Researched and edited grant proposals to Egyptian and international corporate and philanthropic donors.",
+        "Coordinated with Egyptian and American coworkers. Communicated with donors and supporters by writing electronic newsletters and monthly thank you letters."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "ScriptEd",
+      "position": "Teacher",
+      "website": "http://scripted.org/",
+      "startDate": "2015-09-01",
+      "endDate": "2017-05-01",
+      "summary": "ScriptEd equips students in under-resourced schools with the fundamental coding skills and professional experiences that together create access to careers in technology. For two school years, I've volunteered as a classroom teacher in East Harlem.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Wheaton College",
+      "area": "Philosophy and Economics",
+      "studyType": "Bachelor",
+      "startDate": "2007-09-01",
+      "endDate": "2011-05-01",
+      "gpa": "3.70",
+      "courses": []
+    },
+    {
+      "institution": "Flatiron School",
+      "area": "Web Development",
+      "studyType": "",
+      "startDate": "2014-02-01",
+      "endDate": "2014-05-01",
+      "gpa": "4.0",
+      "courses": [
+        "Ruby",
+        "Rails",
+        "Git",
+        "JavaScript"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Front End Technologies",
+      "keywords": [
+        "Ember.js",
+        "React",
+        "Redux",
+        "D3.js",
+        "Immutable.js",
+        "Webpack",
+        "Babel"
+      ]
+    },
+    {
+      "name": "Back End Technologies",
+      "keywords": [
+        "Node.js",
+        "Ruby",
+        "Rails",
+        "Java",
+        "SQL"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "French",
+      "fluency": "Basic"
+    },
+    {
+      "language": "German",
+      "fluency": "Basic"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Outdoors",
+      "keywords": [
+        "Hiking",
+        "Backpacking",
+        "Camping"
+      ]
+    },
+    {
+      "name": "International Travel",
+      "keywords": [
+        "Egypt",
+        "Jordan",
+        "Israel/Palestine"
+      ]
+    }
+  ]
+}
