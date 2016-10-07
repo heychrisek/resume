@@ -132,14 +132,6 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
-      ]
-    },
-    {
       "name": "Front End Technologies",
       "keywords": [
         "Ember.js",
@@ -159,6 +151,14 @@
         "Rails",
         "Java",
         "SQL"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
       ]
     }
   ],
